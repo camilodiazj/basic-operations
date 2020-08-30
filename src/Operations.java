@@ -8,4 +8,8 @@ public class Operations {
       return numb2 - numb1;
   }
 
+  public int multiply(int numb1, int numb2){
+    return numb2 * numb1;
+  }
+
 }
