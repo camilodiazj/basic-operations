@@ -5,7 +5,7 @@ public class Operations {
   }
 
   public int subs(int numb1, int numb2){
-      return numb2 * numb1;
+      return numb2 - numb1;
   }
 
 }
